@@ -8,13 +8,20 @@ Prepared with *reveal.js* (see https://revealjs.com/)
 https://andros-spica.github.io/IOW-Angourakis-et-al-2019/
 
 **Authors**  
-Angourakis, Andreas  
+Angourakis, Andreas
+
 Bates, Jennifer
+
 Baudouin, Jean-Phillipe
+
 Giesche, Alena
+
 Ustunkaya, M. Cemre 
+
 Wright, Nathan
+
 Singh, Ravindra N. 
+
 Petrie, Cameron A.
 
 **Abstract**  
