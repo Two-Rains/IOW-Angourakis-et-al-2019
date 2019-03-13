@@ -8,14 +8,23 @@ Prepared with *reveal.js* (see https://revealjs.com/)
 https://andros-spica.github.io/IOW-Angourakis-et-al-2019/
 
 **Authors**  
-Angourakis, Andreas  
+Angourakis, Andreas
+
 Bates, Jennifer
+
 Baudouin, Jean-Phillipe
+
 Giesche, Alena
+
 Ustunkaya, M. Cemre 
+
 Wright, Nathan
+
 Singh, Ravindra N. 
+
 Petrie, Cameron A.
+
+For more information on authors: https://www.arch.cam.ac.uk/research/projects/two-rains
 
 **Abstract**  
 The development and decline of the urban phase of the Indus Civilisation (c. 2500-1900 BC) provide an ideal opportunity to investigate social resilience and transformation in relation to a variable climate. The Indus Civilisation extended over most of the Indus Basin, which includes a mix of diverse environments. Indus farmers made use of a wide range of food production strategies. The resulting social diversity was conditioned, among other factors, by partially overlapping winter and summer rainfall systems. It is clear that there were changes to these two weather systems between 4.3 and 4.1 ka BP, but the impact of these processes appears to have been varied, and patterns of urban decline, change and transformation were also not uniform. We present an agent-based modelling (ABM) simulation addressing the potential diversity of agricultural strategies adopted by Indus settlements in different socioecological scenarios in Haryana, NW India. This work is part of the multi-disciplinary TwoRains project and brings together research on material culture, settlement distribution, food production and consumption,  vegetation and paleoenvironmental conditions. The preliminary model aims to assess the implications of different food production strategies for the sustainability of urban population and the resilience of such strategies in the face of changes in the intensity and variability of winter and summer rainfall.  
