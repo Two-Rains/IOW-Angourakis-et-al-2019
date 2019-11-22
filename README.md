@@ -1,7 +1,7 @@
 # How to ‘downsize’ a complex society: experiments with agent-based models to assess the resilience of Indus Civilisation settlements to past climate change
 Presentation for 'International Open Workshop: Socio-Environmental Dynamics over the Last 15,000 Years: The Creation of Landscapes VI', session #11 *'Social resilience to climate changes with perspectives on the past 5000 years'* at Kiel University, Germany (11-16 March 2019)
 
-http://www.workshop-gshdl.uni-kiel.de/workshop-sessions-2019/session-2019-11/
+Conference web page: http://www.workshop-gshdl.uni-kiel.de/workshop-sessions-2019/session-2019-11/
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
