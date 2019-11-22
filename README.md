@@ -5,7 +5,7 @@ http://www.workshop-gshdl.uni-kiel.de/workshop-sessions-2019/session-2019-11/
 
 Prepared with *reveal.js* (see https://revealjs.com/)
 
-https://andros-spica.github.io/IOW-Angourakis-et-al-2019/
+Slides: https://andros-spica.github.io/IOW-Angourakis-et-al-2019/
 
 **Authors**  
 Angourakis, Andreas
